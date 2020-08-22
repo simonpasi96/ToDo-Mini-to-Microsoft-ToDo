@@ -13,5 +13,5 @@ Steps:
 
 [![SC2 Video](video_thumbnail.jpg)](https://youtu.be/niuIwwmburY)
 
-ToDo Mini: https://assetstore.unity.com/packages/tools/utilities/todo-mini-164690
+ToDo Mini: https://assetstore.unity.com/packages/tools/utilities/todo-mini-164690<br>
 Microsoft To Do: https://todo.microsoft.com/tasks/
