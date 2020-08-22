@@ -12,3 +12,6 @@ Steps:
 7. Exit the AutoHotKey script (in the Windows task bar, right click the script icon and select "Exit").
 
 [![SC2 Video](video_thumbnail.jpg)](https://youtu.be/niuIwwmburY)
+
+ToDo Mini: https://assetstore.unity.com/packages/tools/utilities/todo-mini-164690
+Microsoft To Do: https://todo.microsoft.com/tasks/
